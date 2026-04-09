@@ -1,12 +1,15 @@
-#数据标注偷懒摸鱼
+# 🎬 高教社数据标注偷懒摸鱼助手
 
-![微信图片_20240312000605 - 副本 - 副本](https://github.com/user-attachments/assets/cecdb9ec-781c-4906-a301-492e7890e146)
+![项目封面](https://github.com/user-attachments/assets/cecdb9ec-781c-4cda-8246-2c5f45fbe630)
 
+---
 
-使用注意：
-请在以下属性中填入参数：
+## 🚀 快速开始
 
-        @connect        
-        apiKey
-        apiUrl
-        model
+### ⚠️ 使用注意
+在使用本脚本前，请务必在脚本的 `CONFIG` 属性中填入以下必要参数，否则脚本将无法调用 AI 接口：
+
+* **@connect**: 填写你的 API 域名
+* **apiKey**: 你的身份验证密钥
+* **apiUrl**: 接口请求地址
+* **model**: 指定使用的模型 ID

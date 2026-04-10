@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         高教社数据加工平台-自动纠错工具 (统计面板增强版)
+// @name         高教社数据加工平台-自动纠错工具
 // @namespace    http://tampermonkey.net/
-// @version      2.5
-// @description  基于 v2.4，仅在按钮左侧增加统计面板，不改动核心逻辑
-// @author       Gemini
+// @version      3.0
+// @description  摸鱼专用
+// @author       Lyq
 // @match        https://data.hep.com.cn/mark/taskInfo/*
 // @grant        GM_xmlhttpRequest
 // @connect      ！！！！！！！！！！！！请填写

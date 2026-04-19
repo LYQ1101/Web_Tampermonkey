@@ -1,6 +1,6 @@
 # 🎬 高教社数据标注偷懒摸鱼助手
 
-<img width="3840" height="1500" alt="微信图片_20241007212745" src="https://github.com/user-attachments/assets/6c6e287c-ffab-4e7f-9dd1-9f51d6d49cb2" />
+<img width="3840" height="1300" alt="微信图片_20241007212745" src="https://github.com/user-attachments/assets/6c6e287c-ffab-4e7f-9dd1-9f51d6d49cb2" />
 
 
 ---
